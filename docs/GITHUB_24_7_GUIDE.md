@@ -52,8 +52,8 @@ To allow the cloud runner to trade on Binance and message your Telegram:
 | :--- | :--- | :--- |
 | **`BINANCE_API_KEY`** | Your Binance Futures API Key | Places orders on Binance |
 | **`BINANCE_API_SECRET`** | Your Binance Futures Secret Key | Authenticates orders |
-| **`TELEGRAM_BOT_TOKEN`** | `8252250269:AAFnW58V_b0l0Qk2jM4L8aV9o3X_EXAMPLE` | Sends alerts & listens to commands |
-| **`TELEGRAM_CHAT_ID`** | `8448744577` | Your personal Telegram Chat ID |
+| **`TELEGRAM_BOT_TOKEN`** | `` | Sends alerts & listens to commands |
+| **`TELEGRAM_CHAT_ID`** | `` | Your personal Telegram Chat ID |
 
 ---
 
