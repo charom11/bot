@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "status": "research-baseline",
+  "datasets": {
+    "ADAUSDT_15m_4year_2022-09-01.csv": 141895,
+    "AVAXUSDT_15m_4year_2022-09-01.csv": 141895,
+    "BNBUSDT_15m_4year_2022-09-01.csv": 141895,
+    "BTCUSDT_15m_4year_2022-09-01.csv": 141088,
+    "DOGEUSDT_15m_4year_2022-09-01.csv": 141088,
+    "ETHUSDT_15m_4year_2022-09-01.csv": 141088,
+    "LINKUSDT_15m_4year_2022-09-01.csv": 141895,
+    "NEARUSDT_15m_4year_2022-09-01.csv": 141895,
+    "SOLUSDT_15m_4year_2022-09-01.csv": 141088,
+    "SUIUSDT_15m_4year_2022-09-01.csv": 117600,
+    "XRPUSDT_15m_4year_2022-09-01.csv": 141088
+  },
+  "canonical_audit_summary": {
+    "initial_equity": 1000.0,
+    "ending_equity": 977.51,
+    "return_pct": -2.25,
+    "max_drawdown_pct": 3.59,
+    "halt_reason": "max_consecutive_losses (halted at 5)"
+  },
+  "notes": "Populated from verified canonical_audit_v2 4-year institutional audit."
+}
